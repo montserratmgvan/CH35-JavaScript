@@ -263,7 +263,7 @@ console.log(objetoLiteral);
 
 *---4. Pincipio de segrregación de interfaces (INTERFACE SEGREGATION PRINCIPLE ISP):  delimitar los métodos que necesito y dejar fuera los innecesarios.
 
-*---5. Pincipio de inversión de dependencias (DEPENDENCY INVERSION PRINCIPLE DIP): explicarlo
+*---5. Pincipio de inversión de dependencias (DEPENDENCY INVERSION PRINCIPLE DIP): consiste en reducir las dependencias entre los módulos del código, es decir, alcanzar un bajo acoplamiento de las clases. "Los módulos de alto nivel no deben de depender de los de bajo nivel. En ambos casos deben depender de las abstracciones." alto nivel se refiere a operaciones cuya naturaleza es más amplia o abarca un contexto más general y bajo nivel son componentes individuales más específicos. 
 */
 
 /**
