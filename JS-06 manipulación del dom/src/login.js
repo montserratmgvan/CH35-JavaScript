@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 const emailInput = document.getElementById("email");
 const submitButton = document.getElementById("btn-submit");
 //* Regex: expresiones regulares. Determinan patrones que se deben cumplir.
@@ -64,5 +64,4 @@ emailInput.addEventListener("input", (e) =>{
         submitButton.disabled = false;
     } else submitButton.disabled = true;
 })
->>>>>>> ef2fa6edbf157ca5d9a67c97b0a6555b7c6a991c
  */
